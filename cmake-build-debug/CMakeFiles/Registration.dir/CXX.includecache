@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/navintamilchelvammacpro/C++/Registration/src/Units.cpp
+Units.h
+/Users/navintamilchelvammacpro/C++/Registration/src/Units.h
+
+/Users/navintamilchelvammacpro/C++/Registration/src/Units.h
+iostream
+-
+

@@ -1,0 +1,22 @@
+Student ID: 33542529
+Semesters: 2
+	Unit ID: BRD209
+	Unit Name: Creativity And WellBeing
+	Credits: 10
+	Marks: 99
+	Date: 30 September 1989
+
+	Unit ID: ICT167
+	Unit Name: PrinciplesOfComputerScience
+	Credits: 8
+	Marks: 89
+	Date: 9 June 1992
+
+	Unit ID: ICT283
+	Unit Name: DataStructures And Abstractions
+	Credits: 9
+	Marks: 92
+	Date: 19 June 1993
+
+Number Of Units: 3
+Total Credits: 27
