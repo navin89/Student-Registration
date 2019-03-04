@@ -46,6 +46,7 @@ void Units::ReArrangeStringWithUnitID(string& name, string& unitId)
 
 }
 
+// Unfinished
 int Units::isCapital(char x)
 {
     if (x >='A' && x <= 'Z'){

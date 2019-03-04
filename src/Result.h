@@ -19,14 +19,12 @@ public:
     Result();
 
     /// PostCondition: Get & Set Marks into var marks
-    /// marks is unsigned
     unsigned GetMarks() const;
     void SetMarks(unsigned& mrks);
 
-
+    /// Testing purposes
     void SetCredits(unsigned& credits);
     /// PostCondition: GetCredits() will be used by Registration class
-
     unsigned GetCredits(int) const;
 
 

@@ -41,8 +41,6 @@ void Result::GetResultsInfo(int& count, string& name,
     dates[count].SetMonth(month);
     dates[count].SetYearNo(year);
 
-//    cout << '\n' << name << " " << idUnit << " " << credits << " "<< mrks;
-
 }
 
 
